@@ -20,7 +20,4 @@ Este bootcamp virtual, ofrecido por EcoHidro Tidop y ISP y dirigido por un equip
 - Buena conexión a internet.
 - Instalar VS Code, Python, y GitHub Copilot.
 
-## Aplicación
-
-El curso está dirigido a estudiantes pre-universitarios de ingeniería geográfica de UNMSM y UNFV. Los interesados deben enviar una carta de motivación a [wendyjimena.espinoza@unmsm.edu.pe](mailto:wendyjimena.espinoza@unmsm.edu.pe). Certificados serán emitidos a quienes aprueben el examen final. Las
 
